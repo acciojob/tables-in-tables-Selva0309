@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table {
+	width: 75%;
+	border: 1px solid rgb(0,0,0);
+	text-align: center;
+	align-content:center;
+}
+caption {
+	border: 1px solid rgb(0,0,0);
+	font-weight: bold;
+}
+td,th {
+	border: 1px solid rgb(0,0,0);
+}
+#black {
+	background:rgb(0,0,0);
+	color: white;
+}
